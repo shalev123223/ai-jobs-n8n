@@ -97,5 +97,6 @@ This repository intentionally does not include:
 
 The project is presented for architectural and conceptual demonstration purposes only.
 
+## Workflow Overview
+![Workflow](screenshots/WorkFlow_n8n_Job.png)
 
-  
